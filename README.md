@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Karina!
+🎓 Estudante de **Sistemas de Informação** (5º semestre - Uniube)  
+💻 Aluna do **DevClub**  
+🚀 Apaixonada por programação e desenvolvimento web  
 
-<!--
-**karinalourodev/karinalourodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Certificados
+### HTML & CSS
+![Certificado HTML e CSS](link_para_imagem_do_certificado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Competências
+
+- Desenvolvimento Web: HTML, CSS, JavaScript  
+- Ferramentas: Git, GitHub, VS Code  
+
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/karinalouro
+- Email: karinalourodev@gmail.com
+
