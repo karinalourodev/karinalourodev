@@ -19,7 +19,21 @@
 ## 🛠️ Competências
 
 - Desenvolvimento Web: HTML, CSS, JavaScript  
-- Ferramentas: Git, GitHub, VS Code  
+- Ferramentas: Git, GitHub, VS Code
+  
+- ### Disciplinas Concluídas
+  
+- Banco de Dados: **9.8**
+- Banco de Dados II: **9.1**
+- Redes de Computadores: **9.7**
+- Matemática Discreta II: **9.4**
+- Álgebra Linear e Geometria Analítica: **9.7**
+- Estruturas de Dados I: **8.7**
+- Estruturas de Dados II: **8.8**
+- Sistemas Distribuídos e de Tempo Real: **8.4**
+- Tecnologias Digitais Emergentes: **8.8**
+- Tecnologias para a Internet: **8.8**
+
 
 
 ---
