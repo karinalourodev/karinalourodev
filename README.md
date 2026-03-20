@@ -6,8 +6,13 @@
 ---
 
 ## 📜 Certificados
-### HTML & CSS
-![Certificado HTML e CSS](link_para_imagem_do_certificado)
+
+### HTML
+![Certificado HTML](./Certificado%20-%20HTML.png)
+
+### CSS Intermediário
+![Certificado CSS Intermediário](./Certificado%20-%20CSS%20Intermediário.png)
+
 
 ---
 
