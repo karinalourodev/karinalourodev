@@ -42,3 +42,6 @@
 - LinkedIn: www.linkedin.com/in/karinalouro
 - Email: karinalourodev@gmail.com
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karinalourodev=anuraghazra&stats_format=compacto)
