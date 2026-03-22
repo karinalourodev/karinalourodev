@@ -1,28 +1,30 @@
 # 👋 Olá, eu sou a Karina!
+
 🎓 Estudante de **Sistemas de Informação** (5º semestre - Uniube)  
 💻 Aluna do **DevClub**  
-🚀 Apaixonada por programação e desenvolvimento web  
+🚀 Apaixonada por programação e desenvolvimento web
 
 ---
 
 ## 📜 Certificados
 
 ### HTML
+
 ![Certificado HTML](./Certificado%20-%20HTML.png)
 
 ### CSS Intermediário
+
 ![Certificado CSS Intermediário](./Certificado%20-%20CSS%20Intermediário.png)
 
+### Git e GitHub
 
----
+## ![Certificado Git e GitHUb](./Certificado%20-%20Git%20&%20GitHub.png)
 
 ## 🛠️ Competências
 
-- Desenvolvimento Web: HTML, CSS, JavaScript  
+- Desenvolvimento Web: HTML, CSS, JavaScript
 - Ferramentas: Git, GitHub, VS Code
-  
 - ### Disciplinas Concluídas
-  
 - Banco de Dados: **9.8**
 - Banco de Dados II: **9.1**
 - Redes de Computadores: **9.7**
@@ -34,14 +36,11 @@
 - Tecnologias Digitais Emergentes: **8.8**
 - Tecnologias para a Internet: **8.8**
 
-
-
 ---
 
 ## 📫 Contato
+
 - LinkedIn: www.linkedin.com/in/karinalouro
 - Email: karinalourodev@gmail.com
 
 ---
-
-
